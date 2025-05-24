@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Hi, I'm Nguyễn Tuấn Nha
 
-<!--
-**Nhavilla/Nhavilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Backend & Server Specialist
 
-Here are some ideas to get you started:
+#### About Me
+- Experienced in developing and optimizing backend systems, especially in multi-processing, inter-process communication, and distributed systems.
+- Skilled at building high-performance servers, designing APIs, and integrating with platforms such as WMS, MES, and ERP.
+- Focused on system architecture, performance optimization, and building scalable, reliable solutions for industrial automation and robotics.
+- Passionate about learning new technologies, improving product quality, and streamlining development processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current Focus
+- Building and maintaining Fleet Management Servers to coordinate AMRs and AGVs, focusing on task allocation, route planning, and traffic control.
+- Developing multi-processing, inter-process communication, and plugin architectures to support integration with third-party AMR/AGV systems.
+- Integrating backend systems with WMS, MES, and ERP, ensuring compliance with industry standards (e.g., VDA5050).
+- Applying Clean Architecture principles and real-time monitoring tools to improve system reliability and performance.
+
+#### Technologies & Tools
+- **Languages:** C++, Python, SQL
+- **Frameworks:** FastAPI, RESTful API, ROS, Drogon
+- **Messaging/Queue:** RabbitMQ, MQTT
+- **Database:** PostgreSQL
+- **Other:** Docker, Docker-compose, Redis, Git
+
+#### Contact
+- 📧 nhacoihd@gmail.com
+- 📍 Kieu Mai Street, Bac Tu Liem District, Hanoi
+
+---
+
+*Always open to connect and discuss backend/server engineering, system architecture, and industrial automation!*
