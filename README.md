@@ -1,29 +1,46 @@
-## 👋 Hi, I'm Nguyễn Tuấn Nha
+# Hi 👋, I'm Nguyễn Tuấn Nha
 
 ### Software Engineer | Backend & Server Specialist
 
-#### About Me
-- Experienced in developing and optimizing backend systems, especially in multi-processing, inter-process communication, and distributed systems.
-- Skilled at building high-performance servers, designing APIs, and integrating with platforms such as WMS, MES, and ERP.
-- Focused on system architecture, performance optimization, and building scalable, reliable solutions for industrial automation and robotics.
-- Passionate about learning new technologies, improving product quality, and streamlining development processes.
+A backend/server engineer in Vietnam, passionate about building high-performance, scalable, and reliable systems for industrial automation and robotics.
 
-#### Current Focus
-- Building and maintaining Fleet Management Servers to coordinate AMRs and AGVs, focusing on task allocation, route planning, and traffic control.
-- Developing multi-processing, inter-process communication, and plugin architectures to support integration with third-party AMR/AGV systems.
-- Integrating backend systems with WMS, MES, and ERP, ensuring compliance with industry standards (e.g., VDA5050).
-- Applying Clean Architecture principles and real-time monitoring tools to improve system reliability and performance.
+---
 
-#### Technologies & Tools
+- 🔭 Currently focusing on Fleet Management Servers for AMRs/AGVs, multi-processing, and system integration (WMS, MES, ERP)
+- 🛠️ Skilled in system architecture, performance optimization, and distributed systems
+- 💬 Ask me about backend, server, multi-process, API, or system integration
+- 📫 How to reach me: nhacoihd@gmail.com
+- 📍 Kieu Mai Street, Bac Tu Liem District, Hanoi
+
+---
+
+## 🛠️ Languages and Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
+</p>
+
 - **Languages:** C++, Python, SQL
-- **Frameworks:** FastAPI, RESTful API, ROS, Drogon
+- **Frameworks:** FastAPI, RESTful API, ROS, ROS2, Drogon, Qt, Navigation2
 - **Messaging/Queue:** RabbitMQ, MQTT
 - **Database:** PostgreSQL
-- **Other:** Docker, Docker-compose, Redis, Git
+- **Other:** Docker, Docker-compose, Redis, Git, GitLab, Jenkins
 
-#### Contact
-- 📧 nhacoihd@gmail.com
-- 📍 Kieu Mai Street, Bac Tu Liem District, Hanoi
+---
+
+## 📈 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nhavilla&show_icons=true&theme=default" alt="Nhavilla's GitHub stats"/>
+</p>
 
 ---
 
