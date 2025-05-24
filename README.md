@@ -1,8 +1,12 @@
-# Hi 👋, I'm Nguyễn Tuấn Nha
+<h1 align="center"># Hi 👋, I'm Nguyễn Tuấn Nha </h1>
 
-### Software Engineer | Backend & Server Specialist
+<h2 align="center"> ### Software Engineer | Backend & Server Specialist </h2>
 
-A 🤖 robotics engineer in Vietnam, passionate about building high-performance, scalable, and reliable systems for industrial automation and robotics.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nhavilla&label=Profile%20views&color=0e75b6&style=flat" alt="Nhavilla" />
+</p>
+
+A 🤖 Software engineer in Vietnam, passionate about building high-performance, scalable, and reliable systems for industrial automation and robotics.
 
 
 - 🔭 Currently focusing on Fleet Management Servers for AMRs/AGVs, multi-processing, and system integration (WMS, MES, ERP)
@@ -11,8 +15,6 @@ A 🤖 robotics engineer in Vietnam, passionate about building high-performance,
 - 📫 How to reach me: nhacoihd@gmail.com
 - 📍 Kieu Mai Street, Bac Tu Liem District, Hanoi
 
-
-## 🛠️ Languages and Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -33,8 +35,6 @@ A 🤖 robotics engineer in Vietnam, passionate about building high-performance,
 - **Database:** PostgreSQL
 - **DevOps/Tools:** Docker, Docker-compose, Redis, Git, GitLab, Jenkins, Linux
 
-
-## 📈 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Nhavilla&show_icons=true&theme=default" alt="Nhavilla's GitHub stats"/>
 </p>
