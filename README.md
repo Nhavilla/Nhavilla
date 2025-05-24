@@ -1,8 +1,8 @@
-<h1 align="center"># Hi 👋, I'm Nguyễn Tuấn Nha </h1>
+<h1 align="center">Hi 👋, I'm Nguyễn Tuấn Nha </h1>
 
-<h2 align="center"> ### Software Engineer | Backend & Server Specialist </h2>
+<h3 align="center">Software Engineer | Backend & Server Specialist </h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Nhavilla&label=Profile%20views&color=0e75b6&style=flat" alt="Nhavilla" />
 </p>
 
